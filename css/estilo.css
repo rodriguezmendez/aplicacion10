@@ -27,9 +27,9 @@
 	position::relative;
 	float:left;
 	height:100%;
-	outline:#FFF solid 3px;
+	outline:#FFF solid 1px;
 	background: #9FE0FF;
-    width:14.28571428571429%;
+    width:6.6666666%;
 }
 .tocada{
 	background: #6F6;
@@ -41,6 +41,6 @@
 	position: relative;
 	top: 80%;
 	text-align: center;
-	font-size: 2em;
+	font-size: 60%;
 	font-weight: bold;
 }
