@@ -27,7 +27,7 @@ $(document).ready(function(e) {
 		
 		
 		
-		$('.textnota').bind('touchstart' ,function(){
+		$('.textonota').bind('touchstart' ,function(){
 			$(this).addClass('tocada');
 			audio.play($(this).attr('id'));
 		}).bind('touchend', function(){
