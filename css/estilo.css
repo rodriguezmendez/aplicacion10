@@ -53,9 +53,16 @@
 
 .textonota{
 	position: relative;
-	top: 80%;
+	top: 0%;
 	text-align: center;
 	font-size: 70%;
 	font-weight: bold;
 	height:100%;
+}
+.textonota2{
+	position: relative;
+	top: 80%;
+	text-align: center;
+	font-size: 70%;
+	font-weight: bold;
 }
