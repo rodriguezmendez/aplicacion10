@@ -11,7 +11,7 @@
   float: left;
   width: 100%;
   height :25%;
-  background: #666;
+  background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9));
   text-align: center;
   font-size: 4em;
   font-weight: bold;
@@ -27,9 +27,18 @@
 	position::relative;
 	float:left;
 	height:100%;
-	outline:#FFF solid 1px;
-	background: #9FE0FF;
-    width:6.6666666%;
+	outline:#000 solid 3px;
+	background: #FFF;
+    width:7.142856%;
+}
+.nota1 {
+	position: relative;
+	float:right;
+	margin-right: -25%;
+	height: 40vh;
+	background-color:#000;
+	width:50%;
+	margin-top:-14px;
 }
 .tocada{
 	background: #6F6;
